@@ -130,6 +130,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+      - name: Copy serve.py to VM
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.VM_HOST }}
+          username: ${{ secrets.VM_USER }}
+          key: ${{ secrets.VM_SSH_KEY }}
+          source: src/serve.py
+          target: src/
+
       - name: SSH deploy to VM
         uses: appleboy/ssh-action@v1.0.3
         with:
