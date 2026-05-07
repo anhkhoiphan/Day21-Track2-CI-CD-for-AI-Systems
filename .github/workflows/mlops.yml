@@ -32,6 +32,9 @@ jobs:
 
       - name: Run unit tests
         run: pytest tests/ -v
+        env:
+          MLFLOW_TRACKING_URI: sqlite:////tmp/mlflow_test.db
+          MLFLOW_ARTIFACT_ROOT: /tmp/mlartifacts
 
 
   # ---------------------------------------------------------------------------
