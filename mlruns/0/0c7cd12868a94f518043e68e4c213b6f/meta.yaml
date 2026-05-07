@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/VinUni_AI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/0c7cd12868a94f518043e68e4c213b6f/artifacts
+end_time: 1778131837240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c7cd12868a94f518043e68e4c213b6f
+run_name: luxuriant-snipe-176
+run_uuid: 0c7cd12868a94f518043e68e4c213b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131831623
+status: 3
+tags: []
+user_id: PRECISION

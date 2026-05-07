@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/VinUni_AI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/13bc2a77ee7f48fca0544b50c83814e9/artifacts
+end_time: 1778131614959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13bc2a77ee7f48fca0544b50c83814e9
+run_name: kindly-asp-485
+run_uuid: 13bc2a77ee7f48fca0544b50c83814e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131609453
+status: 3
+tags: []
+user_id: PRECISION

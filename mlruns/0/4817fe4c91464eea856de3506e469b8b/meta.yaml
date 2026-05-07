@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/VinUni_AI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/4817fe4c91464eea856de3506e469b8b/artifacts
+end_time: 1778144999882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4817fe4c91464eea856de3506e469b8b
+run_name: respected-bass-563
+run_uuid: 4817fe4c91464eea856de3506e469b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778144994156
+status: 3
+tags: []
+user_id: PRECISION

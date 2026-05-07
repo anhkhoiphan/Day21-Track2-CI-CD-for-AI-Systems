@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/VinUni_AI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/0f87755eb543493e8706d89b5e45fb39/artifacts
+end_time: 1778130574519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f87755eb543493e8706d89b5e45fb39
+run_name: dashing-worm-747
+run_uuid: 0f87755eb543493e8706d89b5e45fb39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778130568424
+status: 3
+tags: []
+user_id: PRECISION

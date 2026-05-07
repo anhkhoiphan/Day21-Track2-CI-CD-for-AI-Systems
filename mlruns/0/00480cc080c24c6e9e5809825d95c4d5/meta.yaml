@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/VinUni_AI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/00480cc080c24c6e9e5809825d95c4d5/artifacts
+end_time: 1778131563869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00480cc080c24c6e9e5809825d95c4d5
+run_name: serious-wolf-589
+run_uuid: 00480cc080c24c6e9e5809825d95c4d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131558154
+status: 3
+tags: []
+user_id: PRECISION

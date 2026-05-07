@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/VinUni_AI/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/49bad29771834ce3977aa33befbbab2e/artifacts
+end_time: 1778131022572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49bad29771834ce3977aa33befbbab2e
+run_name: wise-yak-897
+run_uuid: 49bad29771834ce3977aa33befbbab2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131016970
+status: 3
+tags: []
+user_id: PRECISION
